@@ -6,7 +6,7 @@ A very simple example that shows some main concepts of the Object-Oriented progr
 - [x] Inheritance
 - [ ] Polymorphism
 
-It's made for beginner programmers because of its light syntax. There's no clean code and any refactoring processes, just the basics.
+It's made for beginner programmers because of its light syntax. There's no clean code and any refactoring processes, but just the basics.
 
 
 ## Usage
